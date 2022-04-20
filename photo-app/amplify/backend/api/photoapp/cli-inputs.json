@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "photoapp",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "D:\\Dat\\Serverless FullStack\\photo-app\\amplify\\backend\\api\\photoapp\\schema.graphql",
+    "defaultAuthType": {
+      "mode": "AMAZON_COGNITO_USER_POOLS",
+      "cognitoUserPoolId": "authphotosharing43c2d6ce"
+    }
+  }
+}

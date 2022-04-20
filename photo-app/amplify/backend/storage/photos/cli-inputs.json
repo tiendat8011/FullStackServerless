@@ -1,0 +1,13 @@
+{
+  "resourceName": "photos",
+  "policyUUID": "3db02515",
+  "bucketName": "photosharing42a80985df0742f59883c035646264b0",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
