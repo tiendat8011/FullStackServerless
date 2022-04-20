@@ -1,0 +1,28 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-festivalapp-dev-165830-authRole",
+      "UnauthRoleArn": "arn:aws:iam::441639096308:role/amplify-festivalapp-dev-165830-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::441639096308:role/amplify-festivalapp-dev-165830-authRole",
+      "Region": "us-west-1",
+      "DeploymentBucketName": "amplify-festivalapp-dev-165830-deployment",
+      "UnauthRoleName": "amplify-festivalapp-dev-165830-unauthRole",
+      "StackName": "amplify-festivalapp-dev-165830",
+      "StackId": "arn:aws:cloudformation:us-west-1:441639096308:stack/amplify-festivalapp-dev-165830/46687250-bfc7-11ec-a785-060854b9c2a3",
+      "AmplifyAppId": "d2ym45dh1v2apl",
+      "AuthTriggerTemplateURL": "https://s3.amazonaws.com/amplify-festivalapp-dev-165830-deployment/amplify-cfn-templates/auth/auth-trigger-cloudformation-template.json"
+    },
+    "categories": {
+      "auth": {
+        "festivalapp2117a601": {}
+      },
+      "function": {
+        "festivalapp2117a601PostConfirmation": {
+          "GROUP": "Admin",
+          "deploymentBucketName": "amplify-festivalapp-dev-165830-deployment",
+          "s3Key": "amplify-builds/festivalapp2117a601PostConfirmation-326465356857567a6e55-build.zip"
+        }
+      }
+    }
+  }
+}
